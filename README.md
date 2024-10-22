@@ -1,5 +1,5 @@
 # Hactoberfest 2024
-<img src=https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg />
+https://www.digitalocean.com/api/static-content/v1/images?src=https%3A%2F%2Fdoimages.nyc3.cdn.digitaloceanspaces.com%2F002Blog%2FDO-Hacktoberfest-2024-BlogHeader1100x640.png&width=828
 A beginner-friendly project to help you in open-source contribution. Made specifically for contribution in HACKTOBERFEST 2024! Hello World Programs and Algorithms! Please leave a star to support this project! 
 ![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
@@ -65,7 +65,7 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 ---
 
 ## 🎯Objectives
-**The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2022**
+**The Main Objectives of this Repositry is to help People for their Contribution in Hacktoberfest 2024**
 
 <!-- # :handshake: Our Contributors
 <a href="https://github.com/hctnm2/Beginner-Hacktoberfest/graphs/contributors">
